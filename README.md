@@ -1,5 +1,5 @@
 # Hi there 👋, Divya here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Divya-singh.repoName) [![GitHub followers](https://img.shields.io/github/followers/Divya-singh.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=divyarchauhan.repoName) [![GitHub followers](https://img.shields.io/github/followers/divyarchauhan.svg?style=social&label=Follow)](https://github.com/divyarchauhan?tab=followers)<br/>
 
 <!--
 **Divya-singh/Divya-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ I have completed my post graduction in MBA at ICFAI. I have completed undergradu
 <div>
 <!--   <p align="center">
     <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Divya-singh&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=divyarchauhan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
   </p> -->
   
   <p align="center">
