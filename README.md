@@ -9,14 +9,17 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I have completed my post graduction in MBA at ICFAI. I have completed undergraduate in Electronics and Communication at RTU-KOTA. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I have completed my post graduation in MBA(Finance and Marketing) from ICFAI University and got graduated in BTech (Electronics and Communication) from RTU Kota University. 
+
+C, C++, Python, Javascript and HTML are the programming languages I am good with. I love to learn and build something new, productive, innovative and creative.
+
 * **I am interested in Web designing, Data analytics, and digital marketing**
 - 🌱 I’m currently learning ...
   - Java Script
   - React js
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, trading in stock market, and 🌴 explore nature outdoors.
+- ✔ Ask me about anything, I am happy to help, only if ball is in my court!😉<br>
+- Outside tech, 📖 I love to read novels,🏞️ love to travel places and 🌴 explore nature outdoors,🗠 trading in stock market, .
 - 📫 Reach out to me at: <a href="divyadraval@gmail.com">divyadraval@gmail.com</a>
 
 
